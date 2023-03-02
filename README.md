@@ -1,6 +1,6 @@
-### <h1 align="center" class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />Hi there, [Jesron](https://twitter.com/dppjsrn) here!</h1>
+# <h1 align="center" class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />Hi there, [Jesron](https://twitter.com/dppjsrn) here!</h1>
 
-#### <h3 align="center"> I'm Software Developer, Majoring in Informatics Engineering at [Politeknik POS Indonesia](https://www.poltekpos.ac.id/id) </h3>
+### <h3 align="center"> I'm Software Developer, Majoring in Informatics Engineering at [Politeknik POS Indonesia](https://www.poltekpos.ac.id/id) </h3>
 
 <div align="center">
 
@@ -15,7 +15,7 @@
   </tr>
 </p>
 
-##
+###
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -27,3 +27,5 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![MySQL](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<img src="https://github.com/SyifaAinnur/SyifaAinnur/blob/output/github-contribution-grid-snake.svg">
+<br />
