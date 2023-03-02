@@ -1,6 +1,6 @@
 # <h1 align="center" class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />Hi there, [Jesron](https://twitter.com/dppjsrn) here!</h1>
 
-### <h3 align="center"> I'm Software Developer, Majoring in Informatics Engineering at [Politeknik POS Indonesia](https://www.poltekpos.ac.id/id) </h3>
+### <h3 align="center"> I'm Software Engineer, Majoring in Informatics Engineering at [Politeknik POS Indonesia](https://www.poltekpos.ac.id/id) </h3>
 
 <div align="center">
 
