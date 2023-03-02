@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jesronmarudut/)](https://www.linkedin.com/in/jesronmarudut/)
-[![Instagram Badge](https://img.shields.io/badge/-blue?style=social&logo=Instagram&logoColor=red&link=https://www.instagram.com/jsrnmrdt/)](https://www.instagram.com/jsrnmrdt/) [![Linkedin Badge](https://img.shields.io/badge/-blue?style=social&logo=twitter&logoColor=blue&link=https://www.twitter.com/in/dppjsrn/)](https://www.twitter.com/in/dppjsrn/) [![GitHub followers](https://img.shields.io/github/followers/jesronmarudut?label=Follow&style=social)](https://github.com/jesronmarudut/?tab=) <img src="https://komarev.com/ghpvc/?username=jesronmarudut&label=Profile%20views&color=0e75b6&style=flat" alt="jesronmarudut" />
+[![Instagram Badge](https://img.shields.io/badge/-blue?style=social&logo=Instagram&logoColor=red&link=https://www.instagram.com/jsrnmrdt/)](https://www.instagram.com/jsrnmrdt/) [![Linkedin Badge](https://img.shields.io/badge/-blue?style=social&logo=twitter&logoColor=blue&link=https://www.twitter.com/in/dppjsrn/)](https://www.twitter.com/in/dppjsrn/) [![GitHub followers](https://img.shields.io/github/followers/jesronmarudut?label=Follow&style=social)](https://github.com/jesronmarudut/?tab=) <img src="https://komarev.com/ghpvc/?username=jesronmarudut&label=Profile%20views&color=0e75b6&style=social" alt="jesronmarudut" />
 
 <p>
   <tr>
