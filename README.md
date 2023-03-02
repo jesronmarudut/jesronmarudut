@@ -1,7 +1,12 @@
-### Hi there 👋
+### <h2 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />Hi there, I'm [Jesron](https://twitter.com/dppjsrn)!</h2>
 
-- 🔭 My name is Jesron, i'm a software developer
-- 🌱 Majoring in Informatics Engineering, Politeknik POS Indonesia
-- 📫 How to reach me: jesronmarudut23@gmail.com
+- :pushpin: I'm a software developer
+- :mortar_board: Majoring in Informatics Engineering, [Politeknik POS Indonesia](https://www.poltekpos.ac.id/id)
+- :incoming_envelope: How to reach me: jesronmarudut23@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=jesronmarudut&&show_icons=true&title_color=6A5AE2&icon_color=6A5AE2&text_color=6A5AE2&bg_color=101729" />
+
+### Github Stats
+
+[![Jesron's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesronmarudut)](https://github.com/jesronmarudut/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesronmarudut&layout=compact)](https://github.com/jesronmarudut/github-readme-stats)
