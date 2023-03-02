@@ -26,6 +26,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![MySQL](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <img src="https://github.com/SyifaAinnur/SyifaAinnur/blob/output/github-contribution-grid-snake.svg">
 <br />
